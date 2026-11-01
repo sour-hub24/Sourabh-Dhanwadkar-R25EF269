@@ -2,3 +2,7 @@ My name is Sourabh Dhanwadkar, and I am currently pursuing a Bachelor of Technol
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+
+## Projects
+
+Building a personal portfolio website using GitHub Pages.
